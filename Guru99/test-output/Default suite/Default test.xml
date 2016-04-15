@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Manu-PC" name="testNg.TestScript1" tests="1" failures="0" timestamp="15 Apr 2016 07:07:34 GMT" time="14.971" errors="0">
+  <testcase name="execute" time="5.798" classname="testNg.TestScript1"/>
+</testsuite>
